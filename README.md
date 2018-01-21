@@ -4,4 +4,8 @@ It contains a dataset of 50,000 news articles of new york times (the dataset was
 Things required to run the code:
 jupyter notebook
 python 3 (any version)
-
+This project was created ny a group of four people
+1)Dushyant Pratap singh
+2)Namita singh chouhan
+3)Prateek kalra
+4)Sarthak Teotia
